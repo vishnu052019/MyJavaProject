@@ -12,3 +12,5 @@ bug related to books module is resloved.
 bug related to books module is resloved.
 
 bug related to books module is resloved.
+
+idea 1
