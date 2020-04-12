@@ -1,6 +1,6 @@
 this is first statement!!!!!!!!!! Welcome to git..
 
-changesmade
+idea changesmade
 change2
 change3
 
